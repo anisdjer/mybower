@@ -1,0 +1,21 @@
+{
+  "name": "mybower-test",
+  "version": "0.0.0",
+  "homepage": "https://github.com/anisdjer/mybower-test",
+  "authors": [
+    "anis-bouhachem <anis.bouhachem@yahoo.com>"
+  ],
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
