@@ -1,0 +1,7 @@
+{
+    "dashboard" : {
+        "url" : "https://github.com/anisdjer/mybower-test.git",
+        "directory" : "modules",
+        "local" : true
+    }
+}
