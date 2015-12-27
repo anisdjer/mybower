@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 var bower = require('bower');
 var mybowerConfig = require('./mybower.json');
 

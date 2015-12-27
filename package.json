@@ -20,6 +20,6 @@
     "bower": "^1.7.1"
   },
   "bin": {
-    "mybower": "./bin/mybower"
+    "mybower": "mybower.js"
   }
 }
