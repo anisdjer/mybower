@@ -1,6 +1,6 @@
 {
   "name": "mybower",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Customizing bower.",
   "main": "mybower.js",
   "scripts": {
