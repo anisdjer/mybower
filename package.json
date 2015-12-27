@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anisdjer/mybower-test.git"
+    "url": "git+https://github.com/anisdjer/mybower.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/anisdjer/mybower-test/issues"
+    "url": "https://github.com/anisdjer/mybower/issues"
   },
-  "homepage": "https://github.com/anisdjer/mybower-test#readme",
+  "homepage": "https://github.com/anisdjer/mybower#readme",
   "dependencies": {
     "bower": "^1.7.1"
   },
