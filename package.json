@@ -18,5 +18,8 @@
   "homepage": "https://github.com/anisdjer/mybower-test#readme",
   "dependencies": {
     "bower": "^1.7.1"
+  },
+  "bin": {
+    "mybower": "./bin/phantomjs"
   }
 }
